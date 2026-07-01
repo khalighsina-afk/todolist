@@ -12,8 +12,8 @@
 <body>
 <form action="add_task.php" method="post">
     <input type="text" name="task_input">
-    <input type="submit" name="insert" value="Insert">
-
+    <input type="submit" name="insert" value="Insert"> <br>
+    <a href="index.php">Click here to go to tasks page!</a>
 </form>
 </body>
 </html>
